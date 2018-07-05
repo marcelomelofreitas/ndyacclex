@@ -1,9 +1,9 @@
 
-    Next Delphi Yacc & Lex - Parser generator toolset for Delphi
+    Delphi Yacc & Lex - Conjunto de ferramentas do gerador de Delphi
     Copyright (c) 2013 Roman Yankovsky <roman@yankovsky.me>
 
-    Based on Delphi Yacc & Lex version 1.4
-    Based on Turbo Pascal Lex and Yacc Version 4.1
+    Baseado em Delphi Yacc & Lex version 1.4
+    Baseado em Turbo Pascal Lex and Yacc Version 4.1
 
     Copyright (c) 1990-92    Albert Graef <ag@muwiinfa.geschichte.uni-mainz.de>
     Copyright (C) 1996       Berend de Boer <berend@pobox.com>
@@ -29,23 +29,22 @@
     -------------------------------------------------------------------------
     
 
-    What:
+O que:
+    
+     Em seguida, o Delphi Yacc & Lex é um conjunto de ferramentas de gerador de analisador para o Delphi, baseado em
+     Delphi Yacc & Lex, versão 1.4 por Michiel Rook e Turbo Pascal Lex e Yacc,
+     versão 4.1, por Albert Graef et al.
+    
+     O objetivo principal é limpar o código e melhorar a compatibilidade
+     e manutenibilidade.
+    
+     Por quê:
+    
+     O projeto começou porque o original Delphi Yacc & Lex não compilou bem
+     no Delphi XE3 e o último lançamento ou atividade remonta a 2005.
+   
+     
     
-    Next Delphi Yacc & Lex is a parser generator toolset for Delphi, based on
-    Delphi Yacc & Lex, version 1.4 by Michiel Rook and Turbo Pascal Lex and Yacc,
-    version 4.1, by Albert Graef et al.
-    
-    The primary goal is to clean up the code, and improve compatibility
-    and maintainability.
-    
-    Why:
-    
-    The project started because the original Delphi Yacc & Lex did not compile well
-    in Delphi XE3 and the last release or activity dates back to 2005.
-    
-    Contact:
-    
-    Please send any inquiries or suggestions to roman@yankovsky.me.
     
     		
     
