@@ -31,18 +31,10 @@
 
 O que:
     
-     Em seguida, o Delphi Yacc & Lex é um conjunto de ferramentas de gerador de analisador para o Delphi, baseado em
-     Delphi Yacc & Lex, versão 1.4 por Michiel Rook e Turbo Pascal Lex e Yacc,
-     versão 4.1, por Albert Graef et al.
+     O Delphi Yacc & Lex é um conjunto de ferramentas de gerador de analisador para o Delphi, baseado em
+     Delphi Yacc & Lex, versão de https://github.com/RomanYankovsky/ndyacclex 
     
-     O objetivo principal é limpar o código e melhorar a compatibilidade
-     e manutenibilidade.
-    
-     Por quê:
-    
-     O projeto começou porque o original Delphi Yacc & Lex não compilou bem
-     no Delphi XE3 e o último lançamento ou atividade remonta a 2005.
-   
+     
      
     
     
